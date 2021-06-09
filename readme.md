@@ -1,2 +1,2 @@
-A personal homepage used for PhD student applying. 
+A personal homepage used for PhD program applying. 
 The Japanese pages are under building...
